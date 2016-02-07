@@ -1,6 +1,6 @@
 Here's my submission for the [2015 Underhanded C Competition](http://www.underhanded-c.org).
 
-The vulnerable function is given in match.c; it ostensibly performs a [cosine similarity][https://en.wikipedia.org/wiki/Cosine_similarity]
+The vulnerable function is given in match.c; it ostensibly performs a [cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
 to determine how similar the reference and sample material are. 
 
 Can you find the bug?
